@@ -60,7 +60,7 @@ namespace CloneBen
             }
         }
 
-        // Show CloneBen
+        // Showing CloneBen
         private void showBen_Tick(object sender, EventArgs e)
         {
             this.TopMost = true;
