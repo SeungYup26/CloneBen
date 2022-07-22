@@ -53,6 +53,7 @@
             this.ClientSize = new System.Drawing.Size(170, 294);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "CloneBen";
+            this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.TopMost = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CloneBen_FormClosing);
